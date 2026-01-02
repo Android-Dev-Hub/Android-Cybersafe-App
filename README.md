@@ -42,3 +42,17 @@ Click Run ▶ to build and start the app
 <img src="screenshots/home.png" width="250"/>
 <img src="screenshots/tips.png" width="250"/>
 <img src="screenshots/learn.png" width="250"/>
+```
+
+## 🚀 Future Updates
+
+Real-time Threat Alerts
+
+Phishing Detection
+
+Password Strength Checker
+
+Cyber Quiz & Certificates
+
+Dark Mode
+
