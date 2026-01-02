@@ -25,6 +25,16 @@ This app helps users stay safe online by providing cyber tips, threat informatio
 - Database: Firebase / Local Storage  
 
 ---
+## 📂 Installation
+
+Clone the repository
+
+git clone https://github.com/ishanwalia7579/Android-Cybersafe-App.git
+
+
+Open project in Android Studio
+
+Click Run ▶ to build and start the app
 
 ## 📸 Screenshots
 
