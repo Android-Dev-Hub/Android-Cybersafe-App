@@ -56,3 +56,10 @@ Cyber Quiz & Certificates
 
 Dark Mode
 
+## 👨‍💻 Developer
+
+Ishan Walia
+
+GitHub: https://github.com/ishan-walia
+
+LinkedIn: https://www.linkedin.com/in/ishanwalia/
