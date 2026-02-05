@@ -60,6 +60,13 @@ Cyber Quiz & Certificates
 
 Dark Mode
 
+## 👥 Target Users
+
+- Students  
+- Beginners in Cyber Security  
+- Android Users  
+- People who want to stay safe online  
+
 ## 👨‍💻 Developer
 
 Ishan Walia
