@@ -1,3 +1,4 @@
+
 ![Android](https://img.shields.io/badge/Android-Kotlin-green)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
@@ -69,6 +70,10 @@ Dark Mode
 - Beginners in Cyber Security  
 - Android Users  
 - People who want to stay safe online  
+
+## 📄 License
+
+This project is licensed under the MIT License.
 
 ## 👨‍💻 Developer
 
