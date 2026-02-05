@@ -43,6 +43,10 @@ Click Run ▶ to build and start the app
 <img src="screenshots/tips.png" width="250"/>
 <img src="screenshots/learn.png" width="250"/>
 ```
+## 🎯 Purpose of the App
+
+The Android Cybersafe App is designed to spread cyber security awareness among students and common users.  
+It helps users understand online threats, scams, and safe internet practices in a simple way.
 
 ## 🚀 Future Updates
 
