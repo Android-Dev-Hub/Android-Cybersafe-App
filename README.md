@@ -1,3 +1,6 @@
+![Android](https://img.shields.io/badge/Android-Kotlin-green)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
 # 🛡 Android Cybersafe App
 
 Android Cybersafe App is a **cyber security awareness and learning application** built using Kotlin and Android Studio.  
